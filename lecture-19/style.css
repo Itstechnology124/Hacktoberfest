@@ -1,0 +1,25 @@
+/*
+* CSS Text Formatting
+*/
+h1 {
+    color: red;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+    word-spacing: 20px;
+    text-shadow: 2px 2px black;
+}
+h2 {
+    text-align: center;
+    letter-spacing: 10px;
+    text-shadow: 0px 0px 5px dodgerblue;
+}
+.en-txt {
+    text-align: left;
+    text-indent: 50px;
+    line-height: 1.5;
+}
+.urdu-txt {
+    direction: rtl;
+    word-spacing: 5px;
+}
